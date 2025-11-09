@@ -70,8 +70,7 @@ Make sure you have **Docker** and **Docker Compose** installed on your system.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-gantt-dashboard.git
-cd ai-gantt-dashboard
+git clone https://github.com/AminDenizer/Project-041.git
 ```
 
 ### 2️⃣ Start the application
